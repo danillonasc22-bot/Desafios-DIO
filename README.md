@@ -194,3 +194,54 @@ Pergunta: O que é um "Empate por Afogamento" (Pat)? Resposta: Ocorre quando o j
 .
 Pergunta: Qual a regra fundamental sobre tocar nas peças durante uma partida oficial? Resposta: "Peça Tocada, Peça Movida". Se você tocar intencionalmente em uma peça sua com lance legal, deve movê-la. Se tocar na do adversário, deve capturá-la
 .
+
+## Miniguia de Estudo (Entrega Final)
+> Apresente o resultado final consolidado
+
+#### Resumo: O Básico para Começar a Jogar
+  1. Como as peças funcionam (O essencial)
+  2. 
+  O Objetivo: Tudo no jogo serve para cercar o Rei do outro (Xeque-mate). Se o seu Rei não tem para onde fugir, o jogo acaba.
+
+  Peças Fortes: A Dama faz tudo (anda para qualquer lado), a Torre anda em linha reta e o Bispo só nas diagonais.
+
+  O Diferente: O Cavalo anda em "L" e é o único que pula por cima dos outros.
+
+  Os Peões: Só andam para frente, mas capturam na diagonal. Se chegarem no fim do tabuleiro, você troca por uma peça forte (quase sempre a Dama).
+
+  2. Como começar bem a partida
+     
+  Não saia mexendo qualquer peça. No começo, foque em:
+
+  Dominar o meio: Tente colocar seus peões nas casas centrais.
+
+  Tirar as peças da base: Tire os Cavalos e Bispos logo para eles ajudarem no ataque.
+
+  Proteger o Rei: Faça o Roque (aquele lance que o Rei e a Torre se ajudam) o mais rápido possível.
+
+3. Truques para ganhar peças
+
+  Garfo: Quando uma peça sua ataca duas do outro ao mesmo tempo. Ele vai ter que escolher qual salvar.
+
+  Cravada: Quando você ataca uma peça que não pode sair do lugar, porque se ela sair, você captura o Rei ou a Dama que está atrás.
+
+#### Glossário (Palavras que você vai ouvir)
+
+  Roque: Lance especial para esconder o Rei num cantinho seguro.
+
+  Promoção: Quando seu peão atravessa o tabuleiro e vira uma Dama.
+
+  Afogado: Quando você não tem para onde mexer, mas seu Rei não está em xeque. O jogo empata.
+
+  Peça Pendurada: Uma peça que está dando sopa, sem ninguém defendendo.
+
+  Xeque: Um aviso de que o Rei está sendo atacado.
+
+#### Prompts para você usar depois
+
+  "Me dê dicas de como dar o xeque-mate mais rápido usando a Dama e a Torre."
+
+  "Quais são os erros que os iniciantes mais cometem na primeira jogada?"
+
+  "Crie 5 perguntas rápidas para eu testar se decorei como cada peça se move."
+
